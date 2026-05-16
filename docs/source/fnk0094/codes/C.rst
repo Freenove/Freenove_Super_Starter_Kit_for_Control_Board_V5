@@ -40,7 +40,7 @@ C language
    C/10_Buzzer.rst
    C/11_DAC.rst
    C/12_RTC.rst
-   C/13_Motor.rst
+   C/13_Motor_2.rst
    C/14_Servo.rst
    C/15_Temperature_Sensor.rst
    C/16_Joystick.rst
